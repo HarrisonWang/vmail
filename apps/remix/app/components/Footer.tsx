@@ -14,31 +14,24 @@ export default function Footer() {
         href="https://wss.so"
         target="_blank">
         {" "}
-        © 2024 Products of Yesmore{" "}
+        © 2024 Products of Xiaowangye{" "}
       </a>
       <div className="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
         <Link
-          to="https://huawei.com.tw"
-          target="_blank"
-          title="Google Earth"
-          className="text-gray-400 hover:text-gray-500  scale-[1.2]">
-          🌍
-        </Link>
-        <Link
-          to="mailto:team@inke.app"
+          to="mailto:hi@xiaowangye.org"
           title="Email"
           className="text-gray-400 hover:text-gray-500">
           <MailIcon className="w-6 h-6" />
         </Link>
         <Link
-          to="https://twitter.com/yesmoree"
+          to="https://twitter.com/harriso09141752"
           target="_blank"
           title="Twitter"
           className="text-gray-400 hover:text-gray-500">
           <Twitter />
         </Link>
         <Link
-          to="https://github.com/yesmore/vmail"
+          to="https://github.com/harrisonwang/vmail"
           target="_blank"
           title="Github"
           className="text-gray-400 hover:text-gray-500">
