@@ -38,7 +38,7 @@ export async function fetchMailbox(data: FormData) {
     }
 
     const name = randomName("", ".");
-    const domain = "vmail.dev";
+    const domain = "wss.so";
     const mailbox = `${name}@${domain}`;
 
     const secret = process.env.COOKIES_SECRET as string;
