@@ -11,7 +11,7 @@ export default function Footer() {
       </a>
       <a
         className="mt-4 text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://wss.so"
+        href="https://xiaowangye.org"
         target="_blank">
         {" "}
         © 2024 Products of Xiaowangye{" "}
